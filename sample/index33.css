@@ -1,0 +1,44 @@
+.tvs{
+    display: flex;
+    background-color: #fefefe;
+    font-family: sans-serif;
+}
+.one{
+width: 500px;
+height:300px;
+border: 0px;
+margin: 20px;
+text-align: center;
+box-shadow: 5px 10px 18px #ecebeb;
+}
+.one h1{
+    color: red;
+}
+
+.miz{
+    display:flex;
+    width: 500px;
+    height:300px;
+    border: 0px red solid;
+    box-shadow: 1px  solid;
+    margin: 20px;
+    box-shadow: 5px 10px 18px #ecebeb;
+   
+    }
+    .miz p{
+        text-align: justify;
+text-transform: uppercase;
+margin: 20px;
+margin-top: 20%;
+
+        }
+    .christ{
+        display:flex;
+        width: 500px;
+        height:300px;
+        border: 0px red solid;
+        margin: 20px;
+        display: flex;
+        box-shadow: 5px 10px 18px #ecebeb;
+        }
+        
