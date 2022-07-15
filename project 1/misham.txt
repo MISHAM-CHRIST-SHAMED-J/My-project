@@ -1,0 +1,106 @@
+* margin0
+padding0
+fontfamily
+.banner
+height
+width
+backgroundimg:url(.jpg),rgb 0,0,0,0.75, rgb 0,0,0,0.75;
+background size:cover
+background position:center
+div
+img
+ul
+ li <a>home....etc
+
+.nav
+width
+margin auto
+padding35px
+align item center
+justify contect space btwn
+
+.logo
+width
+cursorpointer
+.li
+liststyle;none
+display;inlineblock
+margin;0 20px
+position:relative
+.a
+text decor;none
+color:#fff
+text-transfermaton:uppercase
+.li::after
+content:'';
+height:3px
+width;0
+backgrund;
+position ;absolute
+left;0
+bottom;0
+transition: 0.5s
+.navli:hover:after
+width:100
+.content
+width
+position absolute
+top
+transform:translateY(-50)
+text align
+color
+h1{
+font size
+margintop
+.p
+font weight
+line height
+margin
+.button{
+width
+padding:
+text align
+margin
+border radius
+font weight
+bordor: 2px solid black
+background: transparent
+color#fff
+cursor:pounter
+position:relative
+overflow hidden
+..span in b/w button:
+.span{
+backgroung
+height
+widht0
+bordorradius 25
+left 0
+bottom0
+zindex-1
+background:0.5s
+.button;hover span;
+width:100%;
+.button:hover{
+border:none;
+
+
+
+label tag???.
+box sizing:bordor box??
+line height????
+float???
+display inline block;
+section tag????
+
+
+
+
+
+
+
+
+
+
+
+
